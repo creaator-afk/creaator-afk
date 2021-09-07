@@ -9,4 +9,4 @@
 creaator-afk/creaator-afk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-https://ugc.kn3.net/i/origin/http://www.officialpsds.com/images/thumbs/Street-Fighter---Akuma-Back-psd29310.png
+img src = "https://ugc.kn3.net/i/origin/http://www.officialpsds.com/images/thumbs/Street-Fighter---Akuma-Back-psd29310.png"
