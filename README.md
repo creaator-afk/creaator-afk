@@ -17,7 +17,7 @@
 [<img width=50.5% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kshitij-satpathy-5143501b7/)
 [<img width=49% src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/sY43jN68)
 [<img width=56.6% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/creaator.afk/)
-[<img width=42.9% src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">]()
+[<img width=42.9% src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">](https://www.reddit.com/user/creaator_afk/)
 [<img width=35% src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Creaator-AFK-108488701597759)
 [<img width=33% src="https://aleen42.github.io/badges/src/pinterest.svg">](https://www.reddit.com/user/creaator_afk)
 [<img width=31% src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/creaator_afk)
