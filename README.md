@@ -26,7 +26,7 @@
 
 # Collaboration
 
-[<img width=52% src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCzfNYXwNB_BffWiyLfAuVlQ)
+[<img width=52% src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCzfNYXwNB_BffWiyLfAuVlQ?sub_confirmation=1)
 [<img width=47% src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/creaator_afk)
 [<img width=30% src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">](https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1)
 [<img width=32% src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/profiles/76561199157088984/home)
