@@ -1,17 +1,13 @@
 # Currently working on
 
-<center>
+<hr>
+  
+  - Add links to all links
+  - Create products for portfolio
+# **About**
 
-| Front-End             | Back-End                | Graphics     |
-| --------------------- | ----------------------- | ------------ |
-| It must have an image | another image goes here | the last one |
-
-</ceter>
-
-<!-- add elements that can be changed frequently -->
-
-| <div><img id = "frontend" src = "./resources/fe.png" width=98%><br><img id = "frontend" src = "./resources/fe.png" width=100%><br><img id = "frontend" src = "./resources/fe.png" width=100%></div> | <img id = "3D_develoment" src = "./resources/3d.jpeg" width=50% ><img id = "2d_development" src = "./resources/2d.jpeg" width=50% ><br><img id = "profile" src = "./resources/pf.jfif" width=100% > | <img id = "profile" src = "./resources/be.png" width=98%><br><img id = "profile" src = "./resources/be.png" width=98%><br><img id = "profile" src = "./resources/be.png" width=98%> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div><img id = "frontend" src = "./resources/fe.png" width=98%><br><img id = "frontend" src = "./resources/fe.png" width=100%><br><img id = "frontend" src = "./resources/fe.png" width=100%></div> | <img id = "3D_develoment" src = "./resources/3d.jpeg" width=50% ><img id = "2d_development" src = "./resources/2d.jpeg" width=50% ><br><img id = "profile" src = "./resources/pf.png" width=100% > | <img id = "profile" src = "./resources/be.png" width=98%><br><img id = "backend" src = "./resources/be.png" width=98%><br><img id = "backend" src = "./resources/be.png" width=98%> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align=center>
 
@@ -20,21 +16,21 @@
 [<img width=100% src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/14754708/)
 [<img width=50.5% src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/kshitij-satpathy-5143501b7/)
 [<img width=49% src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.gg/sY43jN68)
-[<img width=56.6% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/kshitijsatpathy/)
+[<img width=56.6% src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/creaator.afk/)
 [<img width=42.9% src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">]()
-[<img width=34% src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">]()
-[<img width=34% src="https://aleen42.github.io/badges/src/pinterest.svg">]()
-[<img width=31% src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">]()
+[<img width=35% src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Creaator-AFK-108488701597759)
+[<img width=33% src="https://aleen42.github.io/badges/src/pinterest.svg">](https://www.reddit.com/user/creaator_afk)
+[<img width=31% src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/creaator_afk)
 
 <Hr>
 
 # Collaboration
 
-[<img width=52% src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">]()
-[<img width=47% src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">]()
-[<img width=30% src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">]()
-[<img width=32% src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">]()
-[<img width=37% src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">]()
+[<img width=52% src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UCzfNYXwNB_BffWiyLfAuVlQ)
+[<img width=47% src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">](https://www.twitch.tv/creaator_afk)
+[<img width=30% src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">](https://account.xbox.com/en-in/Profile?xr=mebarnav&rtc=1)
+[<img width=32% src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">](https://steamcommunity.com/profiles/76561199157088984/home)
+[<img width=37% src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">](https://open.spotify.com/playlist/6fCly6Mc4MbOAP93OOgea1?si=6efdab293f0f4109)
 
 <Hr>
 
@@ -64,9 +60,8 @@
 
 # Stats
 
-[<img src="https://github-readme-stats.vercel.app/api?username=creaator-afk&theme=blue-green">]()
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creaator-afk&theme=blue-green">]()
-[<img src="https://starchart.cc/creaator-afk/creaator-afk/creaator-afk.svg">]()
+[<img src="https://github-readme-stats.vercel.app/api?username=creaator-afk&theme=blue-green" width=70%>]()
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=creaator-afk&theme=blue-green" width=70%>]()
 
 # Donations
 
@@ -78,16 +73,92 @@
 <Hr>
 
 <Hr>
-Front-end
-<Hr>
-<Hr>
-Backend
-<Hr>
-<Hr>
-Footer
-<Hr>
+
+# Front-end
+
+- Webpage
+  - Figma
+  - Coolors
+- WebApp
+  - Flutter
+- Android
+  - Android Studio
+  - XML
+- iOS
+  - Swift
 
 <Hr>
-License
 <Hr>
-* 🌱 I’m currently learning ... Android Apllication Delopment, HTML, Python, CSS, XML, SVG, javascript,
+
+# Backend
+
+- API calls
+- Server
+  - Microsoft Azure
+  - AWS
+  - Firebase
+- Workflows
+<Hr>
+<Hr>
+
+# Graphics
+
+## 3D work
+
+## 2D work
+
+## Tools
+
+- Blender
+  - Environment
+  - Characters
+  - Sculpting
+  - Rigging
+- Unreal engine
+  - Architecture
+  - Physics
+  - Animation
+- Da vinci resolve
+  - Cut/Join
+  - Fusion
+  - Color
+- Natron
+- Inkscape
+  - Logos
+  - Icons
+  - Objects
+- Synfig
+- GIMP
+<Hr>
+<Hr>
+
+## Learning platforms
+
+> [MicroSoft Learn](https://docs.microsoft.com/en-us/learn)
+
+> [CodeAcademy](https://www.codecademy.com/)
+
+> [CodingGame](https://www.codingame.com/)
+
+> [GeekForGeeks.com](https://www.geeksforgeeks.org/)
+
+> [Google dev cloud](https://developer.android.com/)
+
+> [Udemy](https://www.udemy.com/)
+
+<Hr>
+<Hr>
+
+# Footer
+
+<div align=center> subscribe to my <a href=""> Newsletter </a> </div>
+
+<Hr>
+<Hr>
+
+# License
+
+| [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) | To the extent possible under law,<br> [Kshitij Satpathy](https://creaator.afk.github.io/) <br>has waived all copyright and related or neighboring rights to this work. |
+| ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<Hr>
