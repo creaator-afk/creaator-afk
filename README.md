@@ -114,8 +114,10 @@
   - AWS
   - Firebase
 - Workflows
-<Hr>
-<Hr>
+  - Grouping
+  - Naming
+  <Hr>
+  <Hr>
 
 # Graphics
 
@@ -157,10 +159,16 @@
 
 ### **Vector Art**
 
+- Animations
+- Composition
+- UI elements
+- Characters
+- Props
+
 ## Sound
 
 - Audacity
-- Fairlight(Da vinci resolve)
+- Fairlight (Da vinci resolve)
 
 ## Tools
 
