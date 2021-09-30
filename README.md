@@ -77,14 +77,29 @@
 # Front-end
 
 - Webpage
+  - Designing
+    - Simplified design
+    - Canva
+    - Awwwards
   - Figma
+    - Toolkits
+    - Common resources
+    - Bespoke resources
   - Coolors
+    - Common proportions
+    - Bespoke colours
 - WebApp
   - Flutter
+  - Express
+  - React
+  - Angular
+  - SemanticsUI
 - Android
   - Android Studio
   - XML
+  - Flutter
 - iOS
+  - Flutter
   - Swift
 
 <Hr>
@@ -93,6 +108,8 @@
 # Backend
 
 - API calls
+  - Node.js
+  - MongoDB
 - Server
   - Microsoft Azure
   - AWS
@@ -105,7 +122,46 @@
 
 ## 3D work
 
+### **Video effecets**
+
+- VFX
+- Props
+- Rigging
+- Animations
+
+### **Engineering**
+
+- Architecture
+- Physics
+
+### Game design
+
+- Scripting
+- Boolean
+- Settings
+
 ## 2D work
+
+### **Video editing**
+
+- LUTs
+- Transitions
+- Workflows
+- AI
+
+### **Drawing**
+
+- Characters
+- Environments
+- Objects
+- Animations
+
+### **Vector Art**
+
+## Sound
+
+- Audacity
+- Fairlight(Da vinci resolve)
 
 ## Tools
 
@@ -129,8 +185,14 @@
   - Objects
 - Synfig
 - GIMP
+- Audacity
 <Hr>
 <Hr>
+
+## - Miscellenous
+
+- Blockchain
+  - Etherum
 
 ## Learning platforms
 
