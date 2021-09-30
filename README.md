@@ -2,7 +2,6 @@
 
 <hr>
   
-  - Add links to all links
   - Create products for portfolio
 # **About**
 
