@@ -5,8 +5,8 @@
   - Create products for portfolio
 # **About**
 
-| <div><img id = "frontend" src = "./resources/fe.png" width=98%><br><img id = "frontend" src = "./resources/fe.png" width=100%><br><img id = "frontend" src = "./resources/fe.png" width=100%></div> | <img id = "3D_develoment" src = "./resources/3d.jpeg" width=50% ><img id = "2d_development" src = "./resources/2d.jpeg" width=50% ><br><img id = "profile" src = "./resources/pf.png" width=100% > | <img id = "profile" src = "./resources/be.png" width=98%><br><img id = "backend" src = "./resources/be.png" width=98%><br><img id = "backend" src = "./resources/be.png" width=98%> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [<div><img id = "frontend" src = "./resources/fe.png" width=98%>](#front-end)<br>[<img id = "frontend" src = "./resources/fe.png" width=100%>](#front-end)<br>[<img id = "frontend" src = "./resources/fe.png" width=100%>](#front-end)</div> | [<img id = "3D_develoment" src = "./resources/3d.jpeg" width=50% >](#3d-work)[<img id = "2d_development" src = "./resources/2d.jpeg" width=50% >](#2d-work)<br>[<img id = "profile" src = "./resources/pf.png" width=100% >](https://creaator-afk.github.io/) | [<img id = "profile" src = "./resources/be.png" width=98%>](#back-end)<br>[<img id = "backend" src = "./resources/be.png" width=98%>](#back-end)<br>[<img id = "backend" src = "./resources/be.png" width=98%>](#back-end) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <div align=center>
 
@@ -104,7 +104,7 @@
 <Hr>
 <Hr>
 
-# Backend
+# Back-end
 
 - API calls
   - Node.js
@@ -227,7 +227,7 @@
 
 # License
 
-| [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) | To the extent possible under law,<br> [Kshitij Satpathy](https://creaator.afk.github.io/) <br>has waived all copyright and related or neighboring rights to this work. |
+| [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) | To the extent possible under law,<br> [Kshitij Satpathy](https://creaator-afk.github.io/) <br>has waived all copyright and related or neighboring rights to this work. |
 | ------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <Hr>
